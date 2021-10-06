@@ -31,7 +31,18 @@ The list of deliverables follow:
 #### Math and reading scores by grade
    - Only the Math and Reading scores for 9th graders was affected. The Pre/Post Math average data decreased from 80.35% to 80.12% while the Pre/Post Reading average data also decreased from 82.51 to 82.43. 
 #### Scores by school spending
-   - ![image](https://user-images.githubusercontent.com/87042597/136129630-dac20904-2dd9-4bd3-82c9-93c528c6f3cb.png)
-      - 
-####  - Scores by school size
+   -  Thomas High School is in the $630 - 644 per student bin. The scores by school spending was not changed in the final formatted version of the data, seen below. 
+   -  ![image](https://user-images.githubusercontent.com/87042597/136129630-dac20904-2dd9-4bd3-82c9-93c528c6f3cb.png)
+#### Scores by school size
+   -  Thomas High School is in the Medium (1000 - 2000) size bin. The scores by school spending were not changed in the final formatted version of the data, seen below.
+   -  ![image](https://user-images.githubusercontent.com/87042597/136130055-6a3f13ba-73c4-4297-925a-0706f5271d0d.png)
+
 ####  - Scores by school type
+   - As seen in the above graph under the "How is the district summary affected?" section, none of the final results were affected on the final formatted presentation of the data. 
+
+## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+  - Removing the 9th graders data reduced the sample size of the Thomas High School analysis.
+  - The average math passing percentage Thomas High School dropped less than 0.1%.
+  - The average overall reading percentage Thomas High School dropped less than 0.3%.
+  - The average overall passing percentage Thomas High School dropped just over 0.3%.
+  - It is important to note that none of these changes will be seen when comparing the final formatted versions of each presentation. 
